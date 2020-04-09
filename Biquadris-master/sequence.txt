@@ -1,0 +1,7 @@
+J 3right clockwise drop down  
+drop 
+L 
+drop 
+levelup 
+Z
+
